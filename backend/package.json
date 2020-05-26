@@ -1,0 +1,46 @@
+{
+  "name": "pitcher",
+  "version": "0.0.0",
+  "description": "Pitcher is an application that allows people to pool money to pay for anything.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottButler87/HackTheU2018.git"
+  },
+  "author": "Free Food?",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScottButler87/HackTheU2018/issues"
+  },
+  "homepage": "https://github.com/ScottButler87/HackTheU2018#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "fs": "^0.0.1-security",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.4",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
+    "tls": "^0.0.1",
+    "webpack": "3",
+    "xml-to-json-promise": "^0.0.3",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "6.26.0",
+    "babel-loader": "7.1.2",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-inline-import": "^3.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "1.6.1",
+    "babel-preset-es2017": "^6.24.1",
+    "babel-watch": "^2.0.7"
+  }
+}

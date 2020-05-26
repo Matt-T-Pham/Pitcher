@@ -1,0 +1,9 @@
+{
+    "presets": ["env"],
+    "plugins": [
+      "babel-plugin-inline-import",
+      "add-module-exports",
+      "transform-object-rest-spread",
+      "transform-runtime"
+    ]
+  }
